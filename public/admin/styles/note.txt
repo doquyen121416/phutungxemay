@@ -1,0 +1,2 @@
+E:\Xampp\htdocs\dogo\public\admin\styles
+sass --watch template-style.scss:template-style.css --style compressed
